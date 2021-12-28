@@ -3,10 +3,10 @@ First time using Unity for Game Development.
 
 The game consists of a Side-Scroller where I'm learning the techniques to create a platform game in Unity.
 ### Some tasks to complete:
-- [ ] Player Movement and Controls
-- [ ] Player Animation
-- [ ] Scenery with Autotiles
-- [ ] Collision with Scenery
+- [x] Player Movement and Controls
+- [x] Player Movement Animations
+- [x] Scenery with Tilemaps
+- [x] Collision with Scenery
 - [ ] Background Parallax
 - [ ] Adding Enemies
 - [ ] Enemies Movement
